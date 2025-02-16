@@ -1,0 +1,5 @@
+numpy==1.26.4
+pandas
+
+git+https://github.com/aolabsai/ao_core
+git+https://github.com/aolabsai/ao_arch
