@@ -3,7 +3,7 @@ import ao_arch as ar
 description = "Basic Recommender System"
 
 #genre, length
-arch_i = [10]   # genre_binary_encoding
+arch_i = [5, 2, 3, 1, 2]   # genre_encoding, age_category, mood, ana (animation or not), satisfaction_level
 arch_z = [1]           
 arch_c = []           
 connector_function = "full_conn"
